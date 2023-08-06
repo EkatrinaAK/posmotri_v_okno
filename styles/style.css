@@ -72,7 +72,7 @@ ol {
 }
 .result__video {
   width: 100%;
-  object-fit: cover;
+  object-fit: cover;/*расположение видио*/
 }
 .search-form {
   display: grid;
