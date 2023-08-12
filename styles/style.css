@@ -194,6 +194,9 @@ ol {
 .title {
   margin-bottom: 17px;
 }
+.content__details {
+  min-height: 534px;
+}
 .content__accent {
   color: #545050;
   font-family: Oswald;
