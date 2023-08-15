@@ -145,6 +145,7 @@ ol {
   border-right: 1px solid transparent;
   border-top: 1px solid currentColor;
   border-bottom: 1px solid currentColor;
+  display: block;
 }
 /*оформление секции при различных состояниях*/
 .search-form__label:focus {
